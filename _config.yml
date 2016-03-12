@@ -1,7 +1,7 @@
 name: "Hi, I'm Nate"
 favicon: null
-layout_spectrum: 0.017438719980418682
-typography_spectrum: 0.3736503878608346
+layout_spectrum: 0
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
